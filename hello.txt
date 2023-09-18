@@ -6,5 +6,5 @@ hello Yue! hello git!
 hello Yue! hello git!
 hello Yue! hello git!
 hello Yue! hello git!
-hello Yue! hello git!
+hello Yue! hello git!master test
 hello Yue! hello git!
